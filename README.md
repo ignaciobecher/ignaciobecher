@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Ignacio%20Becher&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Automator.%20Founder.&descAlignY=58&descSize=20&descColor=6e7dff" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6E7DFF&center=true&vCenter=true&multiline=false&width=700&lines=5%2B+años+construyendo+software+para+negocios+reales.;Fundador+de+3+SaaS+propios.+50%2B+clientes+en+mi+haber.;Automatizo+operaciones.+Simplifico+procesos.+Envío+en+producción." alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Becher-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciobecher)
 [![Web](https://img.shields.io/badge/CuyoCode-cuyocode.com.ar-6e7dff?style=for-the-badge&logo=vercel&logoColor=white)](https://cuyocode.com.ar)
-[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignacio@cuyocode.com.ar)
+[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@cuyocode.com.ar)
 
 </div>
 
