@@ -1,5 +1,5 @@
 
-****<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Ignacio%20Becher&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Automator.%20Founder.&descAlignY=58&descSize=20&descColor=6e7dff" width="100%"/>
 
