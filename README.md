@@ -14,7 +14,7 @@
 
 ##  Quién soy
 
-Soy desarrollador y fundador técnico de Argentina con **más de 5 años de experiencia** y **más de 50 clientes** en mi historial. Construyo sistemas que **automatizan operaciones y simplifican la gestión de negocios reales** — no demos, no prototipos: software que corre en producción y resuelve problemas concretos.
+Soy desarrollador y founder de CuyoCode con **más de 5 años de experiencia** y **más de 50 clientes** en mi historial. Construyo sistemas que **automatizan operaciones y simplifican la gestión de negocios reales** — no demos, no prototipos: software que corre en producción y resuelve problemas concretos.
 
 Soy fundador de **CuyoCode**, donde desarrollo productos SaaS propios y soluciones a medida para clientes en distintos sectores.
 
